@@ -1,0 +1,4 @@
+repository "Arda-s_Case2 2024-11-30_16-39-42/Arda-s_Case2@18966701396789@cloud"
+  path "/"
+    br "/main"
+    co "/main"
